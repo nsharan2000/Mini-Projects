@@ -12,3 +12,5 @@ notebook 3: Linear Regression
 
 notebook 4: Final Project
 
+credits:Jose Portilla
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
