@@ -1,6 +1,8 @@
 This folder is created to accomodate the files necessary to conduct the IE E&C workshop for "introduction to machine learning"
 
+
 date: 27th August 2020
+
 
 notebook 1: Python Introduction
 
